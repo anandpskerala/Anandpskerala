@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Anandpskerala/Anandpskerala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 
 [![telegram badge](https://img.shields.io/badge/Anand-30302f?style=flat&logo=telegram)](https://t.me/Anandpskerala)
 
