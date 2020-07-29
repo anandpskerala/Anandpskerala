@@ -16,3 +16,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anandpskerala&theme=radical&show_icons=true)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandpskerala&theme=dark&hide_langs_below=1&show_icons=true)
