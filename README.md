@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [![telegram badge](https://img.shields.io/badge/Anand-30302f?style=flat&logo=telegram)](https://t.me/Anandpskerala)
