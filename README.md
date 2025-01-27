@@ -5,8 +5,8 @@ You can contact me on [![telegram badge](https://img.shields.io/badge/Anand-3030
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anandpskerala/)
 
-- 🔭 I’m currently working on Python, Go, Rust, c# Projects
-- 🌱 I’m currently learning Rust, c#
+- 🔭 I’m currently working on Python, Go, Node JS Projects
+- 🌱 I’m currently learning Rust, MERN Stack
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Open Source
 - 💬 Ask me about anything
